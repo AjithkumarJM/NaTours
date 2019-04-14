@@ -4,7 +4,7 @@
   "description": "A simple vlog",
   "main": "index.js",
   "scripts": {
-    "compile:sass": "node-sass -w sass/main.scss css/style.css"
+    "sass": "node-sass sass/main.scss css/style.css"
   },
   "author": "Ajith",
   "license": "ISC",
